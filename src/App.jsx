@@ -24,7 +24,6 @@ function App() {
           <Route path="/projects/:id" element={<ProjectDetails />} />
           <Route path="/tasks" element={<Tasks />} />
           <Route path="/team" element={<Team />} />
-          <Route path="/profile" element={<Profile />} />
         </Route>
       </Routes>
       <Footer />
