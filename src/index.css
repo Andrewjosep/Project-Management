@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.sidebar {
+  width: 230px;
+  min-height: 100%;
+}
+
+.sidebar .nav-link {
+  border-radius: 5px;
+}
+
+.sidebar .nav-link:hover {
+  background-color: #343a40;
+}
+
+main {
+  background-color: #f8f9fa;
+}
